@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expresso-patronum&layout=compact&theme=dracula&count_private=true)](https://github.com/expresso-patronum/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=expresso-patronum&layout=compact&theme=dracula)](https://github.com/expresso-patronum/github-readme-stats)
 
